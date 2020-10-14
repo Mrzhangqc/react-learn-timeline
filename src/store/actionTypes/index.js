@@ -1,0 +1,5 @@
+export const GET_TEST1_LIST = "GET_TEST1_LIST"
+export const SET_TEST1_TOTAL = "SET_TEST1_TOTAL"
+export const GET_TEST2_LIST = "GET_TEST2_LIST"
+export const GET_TEST2_TOTAL = "GET_TEST2_TOTAL"
+export const SET_TEST2_TOTAL = "SET_TEST2_TOTAL"
